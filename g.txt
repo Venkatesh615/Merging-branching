@@ -1,2 +1,4 @@
 this is g file
 this is master modified
+=======
+this g file modified

@@ -1,2 +1,4 @@
 this is b file
 this is master modified
+=======
+this is modified b file
